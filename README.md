@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Kristyn👋
 
-<!--
-**kristynhenderson/kristynhenderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Software Engineer
+Passionate and ambitious coder looking to make a positive impact with the blinding future of our technology.
 
-Here are some ideas to get you started:
+### Languages and Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning from
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-thebadge&logo=edX&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+### Connect with me
+![kristynhenderson05@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![kristynhenderson](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
