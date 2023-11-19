@@ -4,8 +4,8 @@
 Ambitious and passionate coder looking to make a positive impact with the blinding future of our technology.
 
 ### 🧰 Languages and Tools:
-* Linux (Xubuntu)
 * C
+* Linux (Xubuntu)
 
 ### 📚 Currently learning:
 * HTML, CSS, JavaScript, React, Node.js
