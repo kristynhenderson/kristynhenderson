@@ -1,13 +1,20 @@
 # Hi, I'm Kristyn👋
 
-## Aspiring Software Engineer
-Passionate and ambitious coder looking to make a positive impact with the blinding future of our technology.
+## 🔧 Aspiring Software Engineer
+Ambitious and passionate coder looking to make a positive impact with the blinding future of our technology.
 
-### Languages and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🧰 Languages and Tools:
+* Linux (Xubuntu)
+* C
 
-### Learning from
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-thebadge&logo=edX&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+### 📚 Currently learning:
+* HTML, CSS, JavaScript, React, Node.js
 
-### Connect with me
-![kristynhenderson05@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![kristynhenderson](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+### 📖 Learning from:
+* [edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+* [The Odin Project](https://www.theodinproject.com/paths)
+* [freeCodeCamp](https://www.freecodecamp.org/learn/)
+
+### 🌐 Connect with me:
+* [kristynhenderson05@gmail.com](https://accounts.google.com/AccountChooser/signinchooser?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin&theme=glif)
+* [LinkedIn](https://www.linkedin.com/in/kristynhenderson)
