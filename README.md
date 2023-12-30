@@ -1,14 +1,13 @@
-# Hi, I'm Kristyn👋
+# Hi, I'm Kristyn 👋
 
 ## 🔧 Aspiring Software Engineer
 Ambitious and passionate coder looking to make a positive impact with the blinding future of our technology.
 
 ### 🧰 Languages and Tools:
-* C
-* Linux (Xubuntu)
+[!(https://skillicons.dev/icons?i=html,linux,github,git,vscode)](https://skillicons.dev)
 
 ### 📚 Currently learning:
-* HTML, CSS, JavaScript, React, Node.js
+[!(https://skillicons.dev/icons?i=css,js,react,nodejs)](https://skillicons.dev)
 
 ### 📖 Learning from:
 * [edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
