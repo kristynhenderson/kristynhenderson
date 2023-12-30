@@ -4,10 +4,10 @@
 Ambitious and passionate coder looking to make a positive impact with the blinding future of our technology.
 
 ### 🧰 Languages and Tools:
-[!(https://skillicons.dev/icons?i=html,linux,github,git,vscode)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,linux,github,git,vscode)
 
 ### 📚 Currently learning:
-[!(https://skillicons.dev/icons?i=css,js,react,nodejs)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=css,js,react,nodejs)
 
 ### 📖 Learning from:
 * [edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
