@@ -3,7 +3,7 @@
 ## 🔧 Aspiring Software Engineer
 Ambitious and passionate coder looking to make a positive impact with the blinding future of our technology.
 
-### 🧰 Languages and Tools:
+### ⚙️ Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=html,linux,github,git,vscode)
 
 ### 📚 Currently learning:
