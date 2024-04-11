@@ -9,7 +9,7 @@ Ambitious and passionate coder excited to make a positive impact with the blindi
 ### 📖 Learning from:
 * [The 100 Days of SwiftUI Challenge](https://www.hackingwithswift.com/100/swiftui)
 * [The Odin Project](https://www.theodinproject.com/paths)
-* [CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+* [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 * [freeCodeCamp](https://www.freecodecamp.org/learn/)
 
 ### 🌐 Connect with me:
