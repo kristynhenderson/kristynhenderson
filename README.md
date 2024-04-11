@@ -1,17 +1,15 @@
 # Hi, I'm Kristyn 👋
 
-## 🔧 Aspiring Software Engineer
-Ambitious and passionate coder looking to make a positive impact with the blinding future of our technology.
+## 🔧 Aspiring iOS Engineer
+Ambitious and passionate coder excited to make a positive impact with the blinding future of our technology.
 
 ### ⚙️ Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=html,linux,github,git,vscode)
-
-### 📚 Currently learning:
-![My Skills](https://skillicons.dev/icons?i=css,js,react,nodejs)
+![My Skills](https://skillicons.dev/icons?i=swift,html,css,linux,github,git,vscode,xcode)
 
 ### 📖 Learning from:
-* [edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+* [The 100 Days of SwiftUI Challenge](https://www.hackingwithswift.com/100/swiftui)
 * [The Odin Project](https://www.theodinproject.com/paths)
+* [CS50](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 * [freeCodeCamp](https://www.freecodecamp.org/learn/)
 
 ### 🌐 Connect with me:
